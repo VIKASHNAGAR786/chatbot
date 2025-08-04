@@ -1,0 +1,1 @@
+# AgriMandi Chatbot\nA simple Python chatbot for farmers and buyers.
